@@ -1,4 +1,6 @@
-pidgin-libnotify
+pidgin-libnotify plugin from http://gaim-libnotify.sourceforge.net/ 
+with patch from Nicolas Benoît http://nbenoit.tuxfamily.org/index.php?page=Free+Software applied.
+The patch allows libnotify to display notifications about new emails.
 
 About
 =====
